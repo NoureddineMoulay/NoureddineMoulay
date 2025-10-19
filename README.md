@@ -1,50 +1,50 @@
-<!--
-🌟 GitHub Profile README — Moulay Noureddine
--->
+<!-- 🌟 GitHub Profile README — Moulay Noureddine -->
 
-<h1 align="center">Hi there 👋, I'm <span style="color:#9b5de5;">Moulay Noureddine</span></h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#a855f7;">Moulay Noureddine</span></h1>
 
 <p align="center">
-  💻 Software Engineering Student | Full-Stack Developer | Tech Enthusiast
+  💻 Software Engineering Student | Full-Stack Developer | Curious Mind
+</p>
+
+<p align="center">
+  <a href="mailto:moulaynoureddinee@gmail.com">
+    <img src="https://img.shields.io/badge/Email-moulaynoureddinee%40gmail.com-8b5cf6?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/noureddinemoulay" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Moulay%20Noureddine-8b5cf6?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://noureddinemoulay.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-8b5cf6?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-I’m a passionate <b>software engineering student</b> focused on building clean, efficient, and user-friendly applications.  
-I enjoy working across the full stack — from intuitive front-end interfaces to robust back-end systems.  
-Currently, I’m studying **Networks and Information Systems Engineering** at <b>FST Marrakech</b>.
+I'm a **software engineering student** specializing in **Networks and Information Systems** at  
+the *Faculty of Sciences and Technology of Marrakech (FST Marrakech)*.  
+
+I love crafting modern web apps — from elegant interfaces to powerful backends —  
+using tools that combine **performance**, **security**, and **great user experience**.  
 
 ---
 
-### ⚙️ Technical Skills
+### ⚙️ Tech Stack
 
-#### 💬 Languages
-<div align="center">
-  
-`Java` · `JavaScript` · `Python` · `PHP` · `C#` · `C`
-
-</div>
-
-#### 🧩 Frameworks & Libraries
 <div align="center">
 
-`Spring Boot` · `React` · `Laravel` · `Tailwind CSS` · `Docker`
+#### 💬 Languages  
+<img src="https://skillicons.dev/icons?i=java,js,python,php,cs" height="50" />
 
-</div>
+#### 🧩 Frameworks & Libraries  
+<img src="https://skillicons.dev/icons?i=spring,react,laravel,tailwind,docker" height="50" />
 
-#### 🗄️ Databases
-<div align="center">
+#### 🗄️ Databases  
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,oracle" height="50" />
 
-`PostgreSQL` · `MySQL` · `MongoDB` · `Oracle`
-
-</div>
-
-#### 🧰 Tools
-<div align="center">
-
-`Git` · `GitHub` · `VS Code` · `IntelliJ IDEA` · `Postman`
+#### 🧰 Tools & Environments  
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman" height="50" />
 
 </div>
 
@@ -53,17 +53,21 @@ Currently, I’m studying **Networks and Information Systems Engineering** at <b
 ### 🎓 Education
 
 🎓 **Engineering Degree – Networks and Information Systems**  
-*Faculty of Sciences and Technology of Marrakech (FST Marrakech)*  
+*Faculty of Sciences and Technology of Marrakech*  
+
+🎓 **DEUST – Mathematics, Computer Science, Physics**  
+*Faculty of Sciences and Technology of Mohammedia*
+
 ---
 
-###  Let’s Connect
+### 🌐 Let’s Connect
 
 <p align="center">
   <a href="mailto:moulaynoureddinee@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-purple?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/noureddinemoulay" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Moulay%20Noureddine-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Moulay%20Noureddine-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://noureddinemoulay.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View-purple?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -73,5 +77,5 @@ Currently, I’m studying **Networks and Information Systems Engineering** at <b
 ---
 
 <p align="center">
-  ✨ “Write clean code, stay curious, and keep building.” ✨
+  ✨ “Keep learning, keep building, keep improving.” ✨
 </p>
