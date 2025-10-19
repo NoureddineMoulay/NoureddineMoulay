@@ -1,84 +1,77 @@
-<!-- 
+<!--
 🌟 GitHub Profile README — Moulay Noureddine
 -->
 
-<h1 align="center">👋 Salut, moi c'est <span style="color:#a855f7;">Moulay Noureddine</span></h1>
+<h1 align="center">Hi there 👋, I'm <span style="color:#9b5de5;">Moulay Noureddine</span></h1>
 
 <p align="center">
-  🚀 Étudiant ingénieur en Réseaux & Systèmes d’Information | Passionné de Développement Full-Stack
+  💻 Software Engineering Student | Full-Stack Developer | Tech Enthusiast
 </p>
+
+---
+
+### 🧠 About Me
+
+I’m a passionate <b>software engineering student</b> focused on building clean, efficient, and user-friendly applications.  
+I enjoy working across the full stack — from intuitive front-end interfaces to robust back-end systems.  
+Currently, I’m studying **Networks and Information Systems Engineering** at <b>FST Marrakech</b>.
+
+---
+
+### ⚙️ Technical Skills
+
+#### 💬 Languages
+<div align="center">
+  
+`Java` · `JavaScript` · `Python` · `PHP` · `C#` · `C`
+
+</div>
+
+#### 🧩 Frameworks & Libraries
+<div align="center">
+
+`Spring Boot` · `React` · `Laravel` · `Tailwind CSS` · `Docker`
+
+</div>
+
+#### 🗄️ Databases
+<div align="center">
+
+`PostgreSQL` · `MySQL` · `MongoDB` · `Oracle`
+
+</div>
+
+#### 🧰 Tools
+<div align="center">
+
+`Git` · `GitHub` · `VS Code` · `IntelliJ IDEA` · `Postman`
+
+</div>
+
+---
+
+### 🎓 Education
+
+🎓 **Engineering Degree – Networks and Information Systems**  
+*Faculty of Sciences and Technology of Marrakech (FST Marrakech)*  
+---
+
+###  Let’s Connect
 
 <p align="center">
   <a href="mailto:moulaynoureddinee@gmail.com">
-    <img src="https://img.shields.io/badge/Email-moulaynoureddinee%40gmail.com-purple?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-purple?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/noureddinemoulay" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Moulay%20Noureddine-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://noureddinemoulay.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visiter-8b5cf6?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://github.com/NoureddineMoulay">
-    <img src="https://img.shields.io/github/followers/NoureddineMoulay?label=Followers&style=for-the-badge&color=purple" />
+    <img src="https://img.shields.io/badge/Portfolio-View-purple?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 💻 Compétences Techniques
-
-<div align="center">
-
-### 🧠 Langages
-<img src="https://skillicons.dev/icons?i=java,js,python,php,cs" />
-
-### ⚙️ Frameworks & Librairies
-<img src="https://skillicons.dev/icons?i=spring,react,laravel,tailwind,docker" />
-
-### 🗄️ Bases de données
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,oracle" />
-
-### 🛠️ Outils & Autres
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman" />
-
-</div>
-
----
-
-## 🎓 Formation
-
-🎓 **Cycle Ingénieur en Réseaux & Systèmes d’Information**  
-📍 *Faculté des Sciences et Techniques de Marrakech (FST Marrakech)*  
-
-🎓 **DEUST MIP (Maths, Info, Physique)**  
-📍 *Faculté des Sciences et Techniques de Mohammedia*
-
----
-
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoureddineMoulay&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=20)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoureddineMoulay&layout=compact&theme=midnight-purple&hide_border=true&border_radius=20)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NoureddineMoulay&theme=midnight-purple&hide_border=true&border_radius=20)
-
-</div>
-
----
-
-## 💬 Citation favorite
-> "Code propre, esprit clair — le reste suivra." ✨  
-
----
-
-## 🌐 Me retrouver
 <p align="center">
-  <a href="mailto:moulaynoureddinee@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20me-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/noureddinemoulay" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Moulay%20Noureddine-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://noureddinemoulay.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-purple?style=for-the-badge&logo=vercel" /></a>
+  ✨ “Write clean code, stay curious, and keep building.” ✨
 </p>
-
----
-
-⭐️ _Ce profil reflète ma passion pour le développement, la créativité et l’apprentissage continu._  
-Merci de ta visite 💜
